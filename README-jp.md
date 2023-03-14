@@ -1,7 +1,7 @@
 # IV⇆PID-GUI用に変更されたIV⇆PID
 josemamとSmogonにもう一度感謝します。
 
-オリジナル:IV-PID
+オリジナル:IV-PID IV⇆PID https://github.com/josemam/IV-PID
 
 注意：このソフト単体では動きません。IV-PID-GUIに入れて使ってください。
 
