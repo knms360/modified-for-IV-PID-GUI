@@ -1,7 +1,7 @@
 # modified IV⇆PID for IV⇆PID-GUI
 Thanks again josemam and Smogon.
 
-[original](https://github.com/josemam/IV-PID)
+original:IV-PID https://github.com/josemam/IV-PID
 
 [español](README-es.md)
 
