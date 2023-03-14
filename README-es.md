@@ -1,6 +1,8 @@
 # IV⇆PID modificado para IV⇆PID-GUI
 Gracias de nuevo Josemam y Smogon.
 
+original:IV-PID https://github.com/josemam/IV-PID
+
 Advertencia: este software por sí solo no funciona. Ponlo en IV-PID-GUI y úsalo.
 
 ### Modificado
